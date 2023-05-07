@@ -1,0 +1,16 @@
+.container{
+    padding:auto ;
+    padding-top: 130px;
+    margin: auto;
+    background-color: #7e6858;
+    padding-bottom: 80px;
+}
+h1{
+    text-align: center;
+    color: rgb(17, 19, 21);
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: bold;
+}

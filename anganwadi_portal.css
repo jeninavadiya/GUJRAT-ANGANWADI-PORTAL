@@ -1,0 +1,12 @@
+#header {
+    background: url("header1.jpg") center center / cover no-repeat ;
+    }
+    #header{
+      padding: 80px;
+      margin-bottom: 30px;
+    }
+  h1{
+    font-size: 100px;
+    font-style: bold;
+    font-weight: 900;
+  }
